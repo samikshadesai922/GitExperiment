@@ -1,1 +1,2 @@
-"Hello, this is my Git experiment." 
+Hello, this is my Git experiment.
+Git helps us track changes.
